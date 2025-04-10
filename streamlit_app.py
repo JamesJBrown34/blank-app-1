@@ -2,7 +2,6 @@ import streamlit.components.v1 as components
 import streamlit as st
 import pandas as pd
 import numpy as np
-import matplotlib.pyplot as plt
 import time
 from PIL import Image
 import base64
